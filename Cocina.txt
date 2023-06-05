@@ -1,1 +1,2 @@
-Esta es una descripción para una cocina, segundo cambio, la cocina es una cocina muy amplia, con dos estufas y dos refrigeradores.
+Esta es una descripción para una cocina, segundo cambio, la cocina es una cocina muy amplia, con dos estufas y dos refrigeradores... 
+Cuarto cambio, se remodelo la cocina incluyendo en si misma un frigobar y una barra.
